@@ -1,0 +1,60 @@
+*{
+	-moz-appearance: none;
+}
+
+
+#navbar {
+	position: fixed;
+	top: 10px;
+	color: black;
+}
+
+ul{
+	list-style-type: none;
+	position: fixed;	
+}
+
+.navbar{
+	right: 25px;
+	top: 5px;
+}
+
+.footerleft{
+	bottom: 10px;
+	left: 25px;
+}
+
+.footerright{
+	bottom: 10px;
+	right: 45px;
+}
+
+
+li {
+	display: inline;
+	font-family: sans-serif;
+	padding: 5px;
+	border-radius: 5px 5px;
+	font-size: 9pt;
+}
+	
+
+#google {
+	position: fixed;
+	clear: both;
+	top: 25%;
+	margin-left: 42%;
+}
+
+#footer{
+	position: fixed;
+	clear: all;	
+	height: 35px;
+	background-color: #F2F2F2;
+	width: 120%;
+	left: -10px;
+	bottom: 0px;
+	font-size: 10px;
+	padding: 10px;
+
+}
